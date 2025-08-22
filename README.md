@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://raw.githubusercontent.com/vanshs2022/vanshs2022/main/github_banner.png" width="100%" alt="Developer Banner" />
+<img src="https://raw.githubusercontent.com/AryanRaina/AryanRaina/main/github_banner.png" width="100%" alt="Developer Banner" />
 
 <h1 align="center">Hey 👋, I'm Aryan Raina</h1>
 <h3 align="center">Front-End Developer | Intern at Samsung R&D | Always Building, Always Learning</h3>
