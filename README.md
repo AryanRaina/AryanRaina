@@ -63,7 +63,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AryanRaina&show_icons=true&theme=transparent" alt="Github Stats")
+  <img src="https://github-readme-stats.vercel.app/api?username=AryanRaina&show_icons=true&theme=transparent&include_all_commits" alt="Github Stats")
 </p>
 
 <p align="center">
