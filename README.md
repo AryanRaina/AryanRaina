@@ -63,7 +63,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanRaina&show_icons=true&theme=transparent)
+  <img src="https://github-readme-stats.vercel.app/api?username=AryanRaina&show_icons=true&theme=transparent" alt="Github Stats")
 </p>
 
 <p align="center">
