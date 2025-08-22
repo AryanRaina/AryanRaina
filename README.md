@@ -40,7 +40,7 @@
     </td>
     <td align="center" width="33%" style="border: none;">
       <a href="https://drive.google.com/drive/folders/1XRbJp6cFm1jmmHgsl9CTYT6Ql6dHhfpj" target="_blank">
-        <img height="160" alt="2D-Adventure" src="https://github.com/user-attachments/assets/a5574c6d-3952-4203-bc0c-e7c290097c6f" />
+        <img height="160" alt="2D-Adventure" src="https://github.com/user-attachments/assets/a5574c6d-3952-4203-bc0c-e7c290097c6f" /><br/>
         <b>2D-Adventure</b>
       </a>
       <p>2D game featuring tile-based navigation, item collection, and enemy encounters.</p>
