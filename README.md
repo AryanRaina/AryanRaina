@@ -67,6 +67,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanRaina&show_icons=true&theme=transparent" alt="Top Languages")
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=AryanRaina&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
