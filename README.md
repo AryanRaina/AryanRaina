@@ -9,10 +9,11 @@
 ## 👨‍💻 About Me
 
 - 🔧 **PRISM Intern @ Samsung R&D**
-- 💻 Passionate about full-stack web development
+- 💻 Passionate about Web Development, Cloud Computing and AI/ML
 - 🧠 Currently building platforms that foster collaboration & solve real-world problems
 - ✨ Worked on **UniCoLab**, a platform to "Colab. Create. Conquer."
 - 🚀 Building impactful web apps like **Homes28**, **Steganography Tool**, and more
+- ☕ Exploring game dev through a Java-powered 2D RPG adventure
 - 🎯 Always curious and eager to learn new technologies
 - 📫 Reach me at: **aryanraina.work@gmail.com**
 - 🔗 Portfolio: [aryanraina.vercel.app](https://aryanraina.vercel.app/)
