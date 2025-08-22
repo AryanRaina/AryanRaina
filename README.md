@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://raw.githubusercontent.com/AryanRaina/AryanRaina/main/github_banner.png" width="100%" alt="Developer Banner" />
+<img width="100%" alt="Profile Banner" src="https://github.com/user-attachments/assets/db8c68a9-3376-4de7-ac1d-e524c27ed93d" />
 
 <h1 align="center">Hey 👋, I'm Aryan Raina</h1>
 <h3 align="center">Front-End Developer | Intern at Samsung R&D | Always Building, Always Learning</h3>
@@ -8,13 +8,13 @@
 
 ## 👨‍💻 About Me
 
-- 🔧 **R&D Intern @ Samsung R&D**
+- 🔧 **PRISM Intern @ Samsung R&D**
 - 💻 Passionate about full-stack web development
 - 🧠 Currently building platforms that foster collaboration & solve real-world problems
 - ✨ Worked on **UniCoLab**, a platform to "Colab. Create. Conquer."
 - 🚀 Building impactful web apps like **Homes28**, **Steganography Tool**, and more
 - 🎯 Always curious and eager to learn new technologies
-- 📫 Reach me at: **work.vanshs@gmail.com**
+- 📫 Reach me at: **aryanraina.work@gmail.com**
 - 🔗 Portfolio: [aryanraina.vercel.app](https://aryanraina.vercel.app/)
 
 ---
