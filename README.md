@@ -38,11 +38,11 @@
       <p>Platform for students to collaborate on hackathons, projects, and research work.</p>
     </td>
     <td align="center" width="33%" style="border: none;">
-      <a href="https://steganographytool-fexw.onrender.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/vanshs2022/vanshs2022/main/steganography.png" alt="Steganography Tool" height="160"/><br/>
-        <b>Steganography Tool</b>
+      <a href="https://drive.google.com/drive/folders/1XRbJp6cFm1jmmHgsl9CTYT6Ql6dHhfpj" target="_blank">
+        <img height="160" alt="2D-Adventure" src="https://github.com/user-attachments/assets/a5574c6d-3952-4203-bc0c-e7c290097c6f" />
+        <b>2D-Adventure</b>
       </a>
-      <p>Web tool to hide and extract secret messages inside images securely.</p>
+      <p>A 2D adventure game made with Java using the Swing library, featuring tile-based navigation, item collection, and enemy encounters.</p>
     </td>
   </tr>
 </table>
@@ -54,7 +54,7 @@
 ## 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,python,firebase,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,java,express,mongodb,python,firebase,git,github,vscode,figma" />
 </p>
 
 ---
