@@ -1,8 +1,8 @@
 <!-- Banner Image -->
 <img src="https://raw.githubusercontent.com/vanshs2022/vanshs2022/main/github_banner.png" width="100%" alt="Developer Banner" />
 
-<h1 align="center">Hey 👋, I'm Vansh Sharma</h1>
-<h3 align="center">Web Developer | R&D Intern at Samsung | Innovating through Code</h3>
+<h1 align="center">Hey 👋, I'm Aryan Raina</h1>
+<h3 align="center">Front-End Developer | Intern at Samsung R&D | Always Building, Always Learning</h3>
 
 ---
 
@@ -15,7 +15,7 @@
 - 🚀 Building impactful web apps like **Homes28**, **Steganography Tool**, and more
 - 🎯 Always curious and eager to learn new technologies
 - 📫 Reach me at: **work.vanshs@gmail.com**
-- 🔗 Portfolio: [vansh-sharma-portfolio.vercel.app](https://vansh-sharma-portfolio.vercel.app)
+- 🔗 Portfolio: [aryanraina.vercel.app](https://aryanraina.vercel.app/)
 
 ---
 
