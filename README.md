@@ -80,7 +80,7 @@
 
 
 <p align="center">
-  <a href="https://aryanraina.vercel.app/"><img width="32" height="32" alt="Portfolio" src="https://github.com/user-attachments/assets/59c8118a-6d7b-4d42-81d6-254b7547878b" /></a>
+  <a href="https://aryanraina.vercel.app/"><img width="16" height="16" alt="Portfolio" src="https://github.com/user-attachments/assets/59c8118a-6d7b-4d42-81d6-254b7547878b" />Portfolio</a>
   <a href="mailto:aryanraina.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/AryanRaina"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://linkedin.com/in/aryanraina1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
