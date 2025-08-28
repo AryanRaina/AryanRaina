@@ -39,7 +39,7 @@
       <p>Platform for students to collaborate on hackathons, projects, and research work.</p>
     </td>
     <td align="center" width="33%" style="border: none;">
-      <a href="https://drive.google.com/drive/folders/1XRbJp6cFm1jmmHgsl9CTYT6Ql6dHhfpj" target="_blank">
+      <a href="https://github.com/AryanRaina/2D-Adventure" target="_blank">
         <img height="160" alt="2D-Adventure" src="https://github.com/user-attachments/assets/a5574c6d-3952-4203-bc0c-e7c290097c6f" /><br/>
         <b>2D-Adventure</b>
       </a>
