@@ -26,7 +26,7 @@
   <tr>
     <td align="center" width="33%" style="border: none;">
       <a href="https://github.com/AryanRaina/Homes28" target="_blank">
-        <img src="https://raw.githubusercontent.com/vanshs2022/vanshs2022/main/homes28.png" alt="Homes28" height="160"/><br/>
+        <img src="https://github.com/user-attachments/assets/ab5788e5-e9d9-41ca-b393-bcc41df2c441" alt="Homes28" height="160"/><br/>
         <b>Homes28</b>
       </a>
       <p>Real estate platform for property listings with filters, images, and detailed views.</p>
