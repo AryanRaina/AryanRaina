@@ -25,7 +25,7 @@
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td align="center" width="33%" style="border: none;">
-      <a href="https://github.com/AryanRaina/Homes28" target="_blank">
+      <a href="https://homes28-403875145211.asia-south1.run.app/" target="_blank">
         <img src="https://github.com/user-attachments/assets/ab5788e5-e9d9-41ca-b393-bcc41df2c441" alt="Homes28" height="160"/><br/>
         <b>Homes28</b>
       </a>
